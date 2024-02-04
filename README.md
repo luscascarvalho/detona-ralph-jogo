@@ -1,0 +1,1 @@
+Bem-vindo ao jogo do detona ralph, um jogo desenvolvido utilizando HTML, CSS e JavaScript. A missão é acertar o Ralph o máximo possível em um período de 60 segundos! Desafie suas habilidades de mira e divirta-se nesse envolvente jogo web.
